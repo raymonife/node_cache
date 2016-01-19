@@ -1,0 +1,15 @@
+{
+	"name": "fun_node_cache_counter",
+	"version": "0.0.1",
+	"description": "Local cache for ad counter.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": "",
+	"author": "qiuzhuo",
+	"license": "BSD",
+	"dependencies": {
+		"lodash": "~4.0.0"
+	}
+}
